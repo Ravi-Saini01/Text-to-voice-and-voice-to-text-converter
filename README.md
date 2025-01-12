@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/text-speech-converter.git
+git clone https://https://github.com/Ravi-Saini01/Text-to-voice-and-voice-to-text-converter.git
 cd text-speech-converter
 Install the required dependencies:
 
